@@ -7,5 +7,6 @@ Currently in Year2
 
 **COURSES**
 
-Currently doing, CS2103T, Software Engineering
+Currently doing, CS2103T, Software Engineering.
+Taking CS2101 along with CS2103T
 
